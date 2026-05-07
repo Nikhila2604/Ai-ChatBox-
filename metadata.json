@@ -1,0 +1,6 @@
+{
+  "name": "Anima AI: Emotionally Aware Character Studio",
+  "description": "An interactive AI chat platform where characters possess deep emotions, unique personalities, and shared memories. Create custom personas, chat with movie heroes, play games, and maintain a joint diary.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Personality Simulation", "Emotional Feedback UI", "Character Customization", "Narrative Gaming"]
+}
